@@ -52,3 +52,4 @@ for x in range(howMany):
 
 p1 = getGradePoint(data_list)
 p1.display()
+
